@@ -80,11 +80,11 @@
   
   .nav-item:hover:after {
     width: 100%;
-    background: #ffdd40;
+    background: #faa62f;
   }
   
   .nav-item .active {
-    color: #fd7608;
+    color: #faa62f;
    
   }
   
