@@ -55,7 +55,7 @@ export const benefits = [
         description:
           "Track your progress and celebrate milestones on your mental wellness journey.",
         icon: MdOutlineAccessTime,
-        color: "text-yellow-500"
+        color: "text-green-500"
       },
    
 ]
