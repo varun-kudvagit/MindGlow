@@ -1,6 +1,7 @@
-import { FaRegHeart } from "react-icons/fa";
+
+import { GiMeditation } from "react-icons/gi";
 import { BsBarChart } from "react-icons/bs";
-import { MdOutlineAccessTime } from "react-icons/md";
+import { GiNightSleep } from "react-icons/gi";
 import { IoIosPeople } from "react-icons/io";
 import { BsJournalBookmark } from "react-icons/bs";
 import { AiOutlineThunderbolt } from "react-icons/ai";
@@ -10,7 +11,7 @@ export const features = [
     title: "Guided Meditation",
     description:
       "Expert-led sessions tailored to your needs, from beginner to advanced practitioners.",
-    icon: FaRegHeart,
+    icon: GiMeditation,
     color: "text-violet-500",
     url: "/features/meditation", // Updated URL
   },
@@ -23,10 +24,10 @@ export const features = [
     url: "/features/mood", // Placeholder URL (you can add this feature later)
   },
   {
-    title: "Sleep Stories",
+    title: "Sleep Tunes",
     description:
       "Calming narratives and sounds to help you achieve better sleep quality.",
-    icon: MdOutlineAccessTime,
+    icon:  GiNightSleep,
     color: "text-yellow-500",
     url: "/features/stories", // Updated URL
   },
