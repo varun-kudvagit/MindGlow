@@ -1,9 +1,9 @@
-import { FaRegHeart,FaRegMoon } from "react-icons/fa";
+import { FaRegHeart } from "react-icons/fa";
 import { MdElectricBolt } from "react-icons/md";
 import { IoIosPeople } from "react-icons/io";
 import { MdOutlineAccessTime } from "react-icons/md";
-
-
+import { FaScaleBalanced } from "react-icons/fa6";
+import { GiNightSleep } from "react-icons/gi";
 
 
 export const benefits = [
@@ -20,7 +20,7 @@ export const benefits = [
        title: "Improved Emotional Balance",
        description:
          "Develop better emotional awareness and regulation through daily mindfulness practices.",
-       icon: FaRegHeart,
+       icon: FaScaleBalanced,
        color: "text-cyan-500"
      },
    
@@ -30,8 +30,8 @@ export const benefits = [
         title: "Better Sleep Quality",
         description:
           "Achieve restful nights and wake up refreshed with our sleep-focused meditation programs.",
-        icon: FaRegMoon,
-        color: "text-blue-500"
+        icon: GiNightSleep,
+        color: "text-yellow-500"
       },
 
       {
