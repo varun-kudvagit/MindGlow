@@ -61,7 +61,7 @@ function Register() {
   if (isLoading) {
     return (
       <div className="flex justify-center items-center h-96">
-        <div className="loader border-t-4 border-blue-500 border-solid rounded-full w-16 h-16 animate-spin"></div>
+        <div className="loader border-t-4 border-blue-700 border-solid rounded-full w-16 h-16 animate-spin"></div>
       </div>
     )
   }
@@ -70,7 +70,7 @@ function Register() {
     <div
     className=" flex items-center justify-center h-screen "
     style={{
-      backgroundImage: "url('https://res.cloudinary.com/dmdlgpurh/image/upload/v1736879584/pexels-souvenirpixels-1542493_dke22u.jpg')",
+      backgroundImage: "url('https://st3.depositphotos.com/6703622/33232/i/450/depositphotos_332325932-stock-photo-view-of-beautiful-night-lights.jpg')",
       backgroundSize: "cover",      // Ensures the image covers the entire div
       backgroundPosition: "center", // Centers the image in the div
       backgroundRepeat: "no-repeat" // Prevents tiling of the image
