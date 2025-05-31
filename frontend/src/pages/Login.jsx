@@ -80,7 +80,7 @@ function Login() {
               id="email"
               name="email"
               value={email}
-              placeholder="Enter your email"
+              placeholder="Email: (Demo:sample123@g.com)"
               onChange={onChange}
             />
           </div>
@@ -92,7 +92,7 @@ function Login() {
               id="password"
               name="password"
               value={password}
-              placeholder="Enter password"
+              placeholder="Password: (Demo:sampleuser123)"
               onChange={onChange}
             />
           </div>
