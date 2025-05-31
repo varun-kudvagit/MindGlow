@@ -1,7 +1,7 @@
 # MindGlow
 MindGlow is a mental wellness web application that helps users improve their mental health through meditation, mindfulness exercises, emotional support, and self-assessment tools. The platform provides personalized features for users to track and manage their mental health journey.
 + **Live website link:** https://mindglow.netlify.app/
-+ **Demo video:** 
++ **Demo video:** https://drive.google.com/file/d/1wv-xFdvjIbremPR5FrcwrjZ3Ei0-kJGy/view?usp=drive_link
 
 # Features:
 + **Meditation:** Access guided meditation sessions to improve mental clarity and focus.
